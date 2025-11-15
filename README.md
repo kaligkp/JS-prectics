@@ -1,0 +1,2 @@
+# JS-prectics
+JS code
